@@ -6,9 +6,7 @@ class Solution {
         }
         int r=0;
         for(int i=0;i<nums.length;i++){
-            if(arr[r]==0){
-                r++;
-                if(arr[r]==0)
+            while(arr[r]==0){
                 r++;
             }
             nums[i]=r;
