@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0500-keyboard-row](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [3396-valid-word](https://github.com/praveen4604/Leetcode-Solutions/tree/master/3396-valid-word) |
 ## Array
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
