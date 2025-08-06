@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/praveen4604/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
