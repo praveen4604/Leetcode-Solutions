@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0500-keyboard-row](https://github.com/praveen4604/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/praveen4604/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/praveen4604/Leetcode-Solutions/tree/master/3396-valid-word) |
 ## Array
 |  |
